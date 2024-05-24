@@ -1,0 +1,97 @@
+# absl-py==1.4.0
+# altgraph==0.17.3
+# asgiref==3.7.2
+# attrs==23.1.0
+autopep8==2.0.2
+# BTrees==5.0
+# certifi==2023.11.17
+# cffi==1.15.1
+# charset-normalizer==3.3.2
+# contourpy==1.0.7
+# coreapi==2.3.3
+# coreschema==0.0.4
+# cryptography==41.0.7
+# customtkinter==5.1.2
+# cycler==0.11.0
+# darkdetect==0.8.0
+# defusedxml==0.7.1
+# distlib==0.3.6
+dj-rest-auth==5.0.2
+Django==3.2.23
+django-admin-interface==0.28.6
+django-allauth==0.61.0
+django-colorfield==0.11.0
+django-cors-headers==4.3.1
+django-jazzmin==2.6.0
+django-rest-framework==0.1.0
+django-tinymce==3.7.1
+djangorestframework==3.14.0
+djangorestframework-simplejwt==4.7.1
+# drf-yasg==1.21.4
+# filelock==3.12.2
+# flatbuffers==23.5.26
+fonttools==4.39.4
+# idna==3.6
+# inflection==0.5.1
+# itypes==1.2.0
+# Jinja2==3.1.3
+# jsmin==3.0.1
+# jsonschema==4.17.3
+# kiwisolver==1.4.4
+# MarkupSafe==2.1.3
+# matplotlib==3.7.1
+# mediapipe==0.10.1
+# MouseInfo==0.1.3
+# mysqlclient==2.2.3
+# numpy==1.24.2
+# # oauthlib==3.2.2
+# # opencv-contrib-python==4.9.0.80
+# # opencv-python==4.7.0.72
+# # packaging==23.1
+# # pefile==2023.2.7
+# # persistent==5.0
+Pillow==9.5.0
+# # platformdirs==3.5.3
+# # protobuf==3.20.3
+# PyAutoGUI==0.9.53
+# pycodestyle==2.10.0
+# pycparser==2.21
+# pydicom==2.3.1
+# PyGetWindow==0.0.9
+# pyinstaller==5.11.0
+# pyinstaller-hooks-contrib==2023.3
+# PyJWT==2.8.0
+# PyMsgBox==1.0.9
+PyMySQL==1.1.0
+# # pyparsing==3.0.9
+# # pyperclip==1.8.2
+# # pyproject-toml==0.0.10
+# # PyRect==0.2.0
+# # pyrsistent==0.19.3
+# # PyScreeze==0.1.28
+# # python-dateutil==2.8.2
+# # python-slugify==8.0.4
+# # python3-openid==3.2.0
+# # pytweening==1.0.7
+# # pytz==2023.3.post1
+# # pywin32-ctypes==0.2.0
+# # requests==2.31.0
+# # requests-oauthlib==1.3.1
+# ruamel.yaml==0.18.5
+# ruamel.yaml.clib==0.2.8
+# six==1.16.0
+# sounddevice==0.4.6
+# sqlparse==0.4.4
+# # text-unidecode==1.3
+# # tk==0.1.0
+# # toml==0.10.2
+# # transaction==3.1.0
+# # tzdata==2023.3
+# # uritemplate==4.1.1
+# urllib3==2.1.0
+virtualenv==20.23.0
+# # zc.lockfile==3.0.post1
+# # ZConfig==3.6.1
+# # ZODB==5.8.0
+# # zodbpickle==3.0.1
+# # zope.interface==6.0
