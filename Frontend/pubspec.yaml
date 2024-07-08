@@ -1,0 +1,54 @@
+name: arshop
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.4 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  http: ^1.1.0
+  rive: ^0.13.5
+  hexcolor: ^3.0.1
+  flutter_svg: ^2.0.9
+  ionicons: ^0.2.2
+  model_viewer_plus: ^1.7.2
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/icons/
+    - assets/RiveAssets/
+
+  fonts:
+    - family: Intel
+      fonts:
+        - asset: assets/Fonts/Inter-Regular.ttf
+        - asset: assets/Fonts/Inter-SemiBold.ttf
+          weight: 600
+    - family: Poppins
+      fonts:
+        - asset: assets/Fonts/Poppins-Bold.ttf
+          weight: 700
+    - family: Gugi
+      fonts:
+        - asset: assets/Fonts/Gugi Regular.ttf
+          weight: 700
+    - family: Roboto
+      fonts:
+        - asset: assets/Fonts/Gugi Regular.ttf
+          weight: 700
